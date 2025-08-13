@@ -1,0 +1,145 @@
+/* Custom Styles */
+body {
+    background-color: #1a1a1a; /* Dark background for luxury feel */
+    font-family: 'Poppins', sans-serif;
+    color: #e0e0e0; /* Light grey text for contrast */
+}
+
+/* Navbar */
+.navbar {
+    background: rgba(0, 0, 0, 0.8); /* Semi-transparent black */
+    backdrop-filter: blur(10px); /* Blur effect */
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.1); /* White shadow for contrast */
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    max-height: 70px; /* Max height for navbar */
+}
+
+.navbar-brand {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #ffd700 !important; /* Gold color for luxury */
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+    .navbar-brand:hover {
+        color: #ffffff !important; /* White on hover */
+        transform: scale(1.05);
+    }
+
+.nav-link {
+    color: #e0e0e0 !important; /* Light grey text */
+    font-weight: 500;
+    transition: all 0.3s ease;
+    margin: 0 0.5rem;
+    position: relative;
+}
+
+    .nav-link::after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        background: #ffd700; /* Gold underline */
+        bottom: -5px;
+        left: 0;
+        transform: scaleX(0);
+        transform-origin: right;
+        transition: transform 0.3s ease;
+    }
+
+    .nav-link:hover::after {
+        transform: scaleX(1);
+        transform-origin: left;
+    }
+
+    .nav-link:hover {
+        color: #ffd700 !important; /* Gold on hover */
+    }
+
+.navbar-toggler {
+    border-color: rgba(224, 224, 224, 0.5); /* Light grey border */
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(224, 224, 224, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Buttons */
+.btn-outline-primary {
+    border-color: #ffd700; /* Gold border */
+    color: #ffd700; /* Gold text */
+    font-weight: 500;
+    transition: all 0.3s ease;
+    padding: 0.5rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+}
+
+    .btn-outline-primary::after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #ffd700; /* Gold background */
+        top: 0;
+        left: -100%;
+        transition: left 0.3s ease;
+        z-index: -1;
+    }
+
+    .btn-outline-primary:hover {
+        color: #1a1a1a; /* Dark text on hover */
+        transform: translateY(-2px);
+    }
+
+        .btn-outline-primary:hover::after {
+            left: 0;
+        }
+
+/* Main Content */
+.container {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.8s ease-out;
+}
+
+/* Custom Shadows */
+.shadow-lg-custom {
+    box-shadow: 0 10px 30px rgba(255, 255, 255, 0.1); /* White shadow for contrast */
+}
+
+/* Gradient Text */
+.text-gradient {
+    background: linear-gradient(135deg, #ffd700, #ffffff); /* Gold to white gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Hover Effects */
+.hover-scale {
+    transition: transform 0.3s ease;
+}
+
+    .hover-scale:hover {
+        transform: scale(1.05);
+    }

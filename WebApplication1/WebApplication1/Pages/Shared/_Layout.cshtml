@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Reservation_hotel</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Reservation_hotel.styles.css" asp-append-version="true" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <!-- Header -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light shadow-sm">
+            <div class="container">
+                <!-- Brand Name -->
+                <a class="navbar-brand text-gradient" asp-area="" asp-page="/Home">
+                    <i class="fas fa-hotel me-2"></i>Hotel Reservation
+                </a>
+
+                <!-- Mobile Toggle Button -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Navbar Links -->
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <!-- Left-aligned links -->
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-page="/AboutUs">About Us</a>
+                        </li>
+                    </ul>
+
+                    <!-- Right-aligned buttons -->
+                    <ul class="navbar-nav ms-auto">
+                        @if (Context.Session.GetInt32("ClientId") != null)
+                        {
+                            <!-- Show My Reservations Icon -->
+                            <li class="nav-item">
+                                <a class="nav-link" asp-page="/Rooms">
+                                    <i class="fas fa-calendar-check me-2"></i>Chambres Disponibles
+                                </a>
+                            </li>
+
+                            <!-- Show Logout button -->
+                            <li class="nav-item">
+                                <form method="post" asp-page="/Logout" id="logoutForm">
+                                    <button type="submit" class="btn btn-outline-primary px-3">
+                                        Logout (@Context.Session.GetString("ClientName"))
+                                    </button>
+                                </form>
+                            </li>
+                        }
+                        else
+                        {
+                            <!-- Show Login button -->
+                            <li class="nav-item">
+                                <a class="nav-link btn btn-outline-primary px-3" asp-page="/Login">Login</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container my-4 flex-grow-1 fade-in">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Script pour gérer la déconnexion -->
+    <script>
+        document.getElementById('logoutForm')?.addEventListener('submit', function (e) {
+            e.preventDefault(); // Empêcher la soumission normale du formulaire
+
+            // Envoyer le formulaire via AJAX
+            fetch(this.action, {
+                method: 'POST',
+                headers: {
+                    'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                }
+            }).then(function () {
+                // Rediriger vers la page de Login et recharger la page
+                window.location.href = '/Login';
+            });
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

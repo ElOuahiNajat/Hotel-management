@@ -1,0 +1,20 @@
+﻿Reservation hotel
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\
+Reservation_hotel
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\App.xaml
+15-1556316756
+
+20-1008261880
+2371982677036
+Admin.xaml;Chambre\AjouterCHAMBRE.xaml;Chambre\ListerCHAMBRE.xaml;Chambre\ModifierCHAMBRE.xaml;EMP.xaml;Employe\AjouterEMP.xaml;Employe\ListerEMP.xaml;Employe\ModifierEMP.xaml;MainWindow.xaml;Reservation\AjouterRESERVATION.xaml;Reservation\ListerRESERVATION.xaml;Reservation\ModifierRESERV.xaml;TypeChambre\AjouterTypeChambre.xaml;TypeChambre\ListerTypeChambre.xaml;TypeChambre\ModifierTypeChambre.xaml;
+
+True
+

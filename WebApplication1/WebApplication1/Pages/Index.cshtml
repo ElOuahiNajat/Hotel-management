@@ -1,0 +1,116 @@
+﻿@page
+@model WebApplication1.Pages.IndexModel
+@{
+    ViewData["Title"] = "Welcome";
+    Layout = "_LayoutVideo"; // Utiliser le layout personnalisé sans navbar ni footer
+}
+
+<!-- Hero Section with Video Background -->
+<section class="hero-section">
+    <div class="video-container">
+        <video autoplay muted loop id="hero-video">
+            <source src="~/video/vid.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class="hero-content text-center">
+        <!-- Cadre flou avec effets améliorés -->
+        <div class="blurred-card p-4 rounded">
+            <h1 class="display-4 text-white fw-bold">Welcome to Our Luxurious Hotel</h1>
+            <p class="lead text-white">Experience the perfect blend of comfort and elegance.</p>
+            <a asp-page="/Home" class="btn btn-gradient btn-lg mt-3">Explore</a>
+        </div>
+    </div>
+</section>
+
+<!-- Styles for the Hero Section -->
+<style>
+
+
+
+
+
+
+
+
+
+
+
+
+    body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+    }
+
+    .hero-section {
+        position: relative;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+    }
+
+    .video-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+    }
+
+    #hero-video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .hero-content {
+        position: relative;
+        z-index: 1;
+    }
+
+    /* Styles pour le cadre flou */
+    .blurred-card {
+        background: rgba(0, 0, 0, 0.5); /* Arrière-plan semi-transparent noir */
+        backdrop-filter: blur(10px); /* Effet de flou */
+        border: 1px solid rgba(255, 255, 255, 0.2); /* Bordure légère */
+        box-shadow: 0 4px 15px rgba(255, 255, 255, 0.1); /* Ombre portée blanche */
+        padding: 2rem; /* Espacement interne */
+        border-radius: 15px; /* Coins arrondis */
+    }
+
+        /* Styles pour le texte */
+        .blurred-card h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: #ffd700; /* Texte en or */
+        }
+
+        .blurred-card p {
+            font-size: 1.25rem;
+            margin-bottom: 1.5rem;
+            color: #e0e0e0; /* Texte en gris clair */
+        }
+
+        /* Styles pour le bouton */
+        .blurred-card .btn-primary {
+            background-color: #ffd700; /* Fond or */
+            border-color: #ffd700; /* Bordure or */
+            color: #1a1a1a; /* Texte noir */
+            transition: all 0.3s ease;
+            padding: 0.75rem 2rem;
+            font-size: 1.1rem;
+        }
+
+            .blurred-card .btn-primary:hover {
+                background-color: #1a1a1a; /* Fond noir au survol */
+                border-color: #ffd700; /* Bordure or */
+                color: #ffd700; /* Texte or au survol */
+                transform: translateY(-2px);
+            }
+</style>

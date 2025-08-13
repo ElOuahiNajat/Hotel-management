@@ -1,0 +1,485 @@
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.cache
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.lref
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.exe
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.deps.json
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.runtimeconfig.json
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.dll
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.pdb
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.g.resources
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.dll
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\refint\Reservation hotel.dll
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.pdb
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.genruntimeconfig.cache
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\ref\Reservation hotel.dll
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\AjouterCHAMBRE.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\ListerCHAMBRE.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\ModifierCHAMBRE.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\SupprimerCHAMBRE.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRES.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRES.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRES.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\SupprimerRES.g.cs
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\AjouterCHAMBRE.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\ListerCHAMBRE.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\ModifierCHAMBRE.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\SupprimerCHAMBRE.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRES.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRES.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRES.baml
+C:\Users\PC\Desktop\Projet dotnet réservation d’hôtel\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\SupprimerRES.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.AssemblyReference.cache
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Admin.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\ListerCHAMBRE.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\ModifierCHAMBRE.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre_admin\ListerCHAMBRE.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre_admin\ModifierCHAMBRE.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\EMP.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employer\AjouterEMP.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employer\ListerEMP.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employer\ModifierEMP.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRES.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRES.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRES.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation_admin\AjouterRES.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation_admin\ListerRes.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation_admin\ModifierRes.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.cache
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.lref
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\refint\Reservation hotel.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.pdb
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.exe
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.deps.json
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.runtimeconfig.json
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.pdb
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Admin.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\ListerCHAMBRE.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\chambre\ModifierCHAMBRE.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre_admin\ListerCHAMBRE.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre_admin\ModifierCHAMBRE.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\EMP.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employer\AjouterEMP.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employer\ListerEMP.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employer\ModifierEMP.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRES.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRES.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRES.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation_admin\AjouterRES.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation_admin\ListerRes.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation_admin\ModifierRes.baml
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.g.resources
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfoInputs.cache
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfo.cs
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.CoreCompileInputs.cache
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservat.18E66E49.Up2Date
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.genruntimeconfig.cache
+C:\Users\idris\OneDrive\Bureau\ziad\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\ref\Reservation hotel.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.exe
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.deps.json
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.runtimeconfig.json
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.pdb
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.AssemblyReference.cache
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Admin.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\AjouterCHAMBRE.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\ModifierCHAMBRE.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\EMP.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\AjouterEMP.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ListerEMP.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ModifierEMP.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRES.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRes.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRES.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\App.g.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.cache
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.lref
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Admin.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\AjouterCHAMBRE.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\ModifierCHAMBRE.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\EMP.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\AjouterEMP.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ListerEMP.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ModifierEMP.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRES.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRes.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRES.baml
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.g.resources
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.GeneratedMSBuildEditorConfig.editorconfig
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfoInputs.cache
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfo.cs
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.CoreCompileInputs.cache
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservat.18E66E49.Up2Date
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.dll
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\refint\Reservation hotel.dll
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.pdb
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.genruntimeconfig.cache
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\ref\Reservation hotel.dll
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\4iir\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.ResolveComReference.cache
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.barcodes.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.forms.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.io.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.kernel.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.layout.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.pdfa.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.pdfua.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.sign.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.svg.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.commons.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\4iir\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.exe
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.deps.json
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.runtimeconfig.json
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.pdb
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Admin.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\AjouterCHAMBRE.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\ModifierCHAMBRE.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\EMP.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\AjouterEMP.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ListerEMP.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ModifierEMP.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRES.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRes.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRES.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.cache
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.lref
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Admin.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\AjouterCHAMBRE.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\ModifierCHAMBRE.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\EMP.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\AjouterEMP.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ListerEMP.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ModifierEMP.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRES.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRes.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRES.baml
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.g.resources
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfo.cs
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservat.18E66E49.Up2Date
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\refint\Reservation hotel.dll
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.pdb
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.genruntimeconfig.cache
+C:\Users\user\Desktop\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\ref\Reservation hotel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ListerEMP.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\AjouterCHAMBRE.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\ModifierCHAMBRE.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\AjouterEMP.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ListerEMP.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ModifierEMP.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.cache
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel_MarkupCompile.lref
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\refint\Reservation hotel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.pdb
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.exe
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.deps.json
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.runtimeconfig.json
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Reservation hotel.pdb
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Admin.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\EMP.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Admin.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\AjouterCHAMBRE.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\ModifierCHAMBRE.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\EMP.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\AjouterEMP.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Employe\ModifierEMP.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.g.resources
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.AssemblyInfo.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservat.18E66E49.Up2Date
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation hotel.genruntimeconfig.cache
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\ref\Reservation hotel.dll
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\TypeChambre\ListerTypeChambre.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\TypeChambre\AjouterTypeChambre.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\TypeChambre\ListerTypeChambre.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\TypeChambre\ModifierTypeChambre.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\TypeChambre\AjouterTypeChambre.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\TypeChambre\ModifierTypeChambre.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\ListerCHAMBRE.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Chambre\ListerCHAMBRE.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRESERVATION.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\AjouterRESERVATION.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRESERVATION.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ListerRESERVATION.baml
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRESERV.g.cs
+C:\Users\user\source\repos\Reservation hotel\Reservation hotel\obj\Debug\net8.0-windows\Reservation\ModifierRESERV.baml

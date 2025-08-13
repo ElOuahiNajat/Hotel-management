@@ -1,0 +1,40 @@
+﻿@page
+@model WebApplication1.Pages.ReserveRoomModel
+@{
+    ViewData["Title"] = "Réserver une chambre";
+}
+
+<div class="container">
+    <h2 class="text-center mb-4">Réserver une chambre</h2>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="DateDebut">Date de début</label>
+            <input type="date" class="form-control" id="DateDebut" name="DateDebut" required>
+        </div>
+        <div class="form-group">
+            <label for="DateFin">Date de fin</label>
+            <input type="date" class="form-control" id="DateFin" name="DateFin" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Calculer le prix</button>
+    </form>
+
+    @if (Model.PrixTotal > 0)
+    {
+        <div class="mt-4">
+            <h4>Prix total: @Model.PrixTotal.ToString("C")</h4>
+            <form method="post" asp-page-handler="Reserve">
+                <input type="hidden" name="DateDebut" value="@Model.DateDebut" />
+                <input type="hidden" name="DateFin" value="@Model.DateFin" />
+                <button type="submit" class="btn btn-success">Confirmer la réservation</button>
+            </form>
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <div class="alert alert-danger mt-4">
+            @Model.ErrorMessage
+        </div>
+    }
+</div>

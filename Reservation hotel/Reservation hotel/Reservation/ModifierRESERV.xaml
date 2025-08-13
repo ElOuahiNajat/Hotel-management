@@ -1,0 +1,51 @@
+﻿<Window x:Class="Reservation_hotel.Reservation.ModifierRESERV"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reservation_hotel.Reservation"
+        mc:Ignorable="d"
+        Title="Modifier Réservation" Height="450" Width="800" Loaded="Window_Loaded"
+        Background="Black">
+
+    <Grid Background="Black">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*" />
+            <ColumnDefinition Width="40*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Grille gauche avec DataGrid -->
+        <Grid Grid.Column="0">
+            <DataGrid x:Name="dgvReservationModif" Margin="10,20" SelectionChanged="dgvReservationModif_SelectionChanged"
+                      Background="Black" Foreground="black" BorderBrush="Yellow" BorderThickness="1" FontSize="14"/>
+        </Grid>
+
+        <!-- Grille droite avec les champs de saisie et le bouton -->
+        <Grid Grid.Column="1">
+            <Label Content="Date Début :" VerticalAlignment="Center" Margin="20,-300,0,0" Foreground="White" FontSize="16"/>
+            <DatePicker x:Name="dpDateDebut" Width="150" Height="30" HorizontalAlignment="Center" Margin="50,-300,0,0"
+                        Background="Black" Foreground="White" BorderBrush="Yellow" BorderThickness="2" FontSize="14"/>
+
+            <Label Content="Date Fin :" VerticalAlignment="Center" Margin="20,-220,0,0" Foreground="White" FontSize="16"/>
+            <DatePicker x:Name="dpDateFin" Width="150" Height="30" HorizontalAlignment="Center" Margin="50,-220,0,0"
+                        Background="Black" Foreground="White" BorderBrush="Yellow" BorderThickness="2" FontSize="14"/>
+
+            <Label Content="Client ID :" VerticalAlignment="Center" Margin="20,-140,0,0" Foreground="White" FontSize="16"/>
+            <TextBox x:Name="txtClientId" Width="150" Height="30" HorizontalAlignment="Center" Margin="50,-140,0,0"
+                     Background="Black" Foreground="White" BorderBrush="Yellow" BorderThickness="2" FontSize="14"/>
+
+            <Label Content="Chambre ID :" VerticalAlignment="Center" Margin="20,-60,0,0" Foreground="White" FontSize="16"/>
+            <TextBox x:Name="txtChambreId" Width="150" Height="30" HorizontalAlignment="Center" Margin="50,-60,0,0"
+                     Background="Black" Foreground="White" BorderBrush="Yellow" BorderThickness="2" FontSize="14"/>
+
+            <Label Content="Employé ID :" VerticalAlignment="Center" Margin="20,20,0,0" Foreground="White" FontSize="16"/>
+            <TextBox x:Name="txtEmployeId" Width="150" Height="30" HorizontalAlignment="Center" Margin="50,20,0,0"
+                     Background="Black" Foreground="White" BorderBrush="Yellow" BorderThickness="2" FontSize="14"/>
+
+            <!-- Bouton Modifier -->
+            <Button x:Name="btnModifierReservation" Width="150" Height="40" Content="Modifier" VerticalAlignment="Center"
+                    Margin="0,200,0,0" Background="Yellow" Foreground="Black" FontSize="16" BorderBrush="Yellow"
+                    BorderThickness="2" FontWeight="Bold" Cursor="Hand" Padding="5" Click="btnModifierReservation_Click"/>
+        </Grid>
+    </Grid>
+</Window>

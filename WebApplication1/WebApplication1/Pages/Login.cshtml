@@ -1,0 +1,69 @@
+﻿@page
+@model WebApplication1.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container-fluid d-flex" style="min-height: 80vh; padding: 0; margin: 0;">
+    <!-- Image Section -->
+    <div class="col-md-6 d-none d-md-block" style="padding: 0; margin: 0; width: 50%; height: 80vh;">
+        <div style="background-image: url('/images/img1.jpg'); background-size: cover; background-position: center; height: 100%; width: 100%;">
+            <!-- Aucun texte ou overlay ici -->
+        </div>
+    </div>
+    <!-- Login Form Section -->
+    <div class="col-md-6 d-flex justify-content-center align-items-center" style="padding: 0; margin: 0; width: 50%; height: 80vh;">
+        <div class="card shadow-lg-custom p-4" style="width: 100%; max-width: 400px; background-color: #1a1a1a; border: 1px solid rgba(255, 255, 255, 0.1);">
+            <!-- Message de bienvenue après connexion réussie -->
+            @if (!string.IsNullOrEmpty(Model.WelcomeMessage))
+            {
+                <div class="text-center mb-4">
+                    <h2 class="text-gradient">@Model.WelcomeMessage, @Model.FullName!</h2>
+                    <p class="text-muted">You have successfully logged in.</p>
+                    <a href="/Rooms" class="btn btn-gradient">Découvrir les chambres disponibles</a>
+                </div>
+            }
+            else
+            {
+                <!-- Formulaire de connexion -->
+                <div class="text-center mb-4">
+                    <h2 class="text-gradient">Login</h2>
+                    <p class="text-muted">Access your account</p>
+                </div>
+
+                <!-- Error Message -->
+                @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+                {
+                    <div class="alert alert-danger">@Model.ErrorMessage</div>
+                }
+
+                <form method="post">
+                    <!-- Email Field -->
+                    <div class="form-group mb-3">
+                        <label for="Email" class="form-label text-white">Email:</label>
+                        <input type="email" id="Email" name="Email" class="form-control bg-dark text-white" placeholder="Enter your email" required style="border: 1px solid rgba(255, 255, 255, 0.2);" />
+                    </div>
+
+                    <!-- Password Field -->
+                    <div class="form-group mb-3">
+                        <label for="Password" class="form-label text-white">Password:</label>
+                        <input type="password" id="Password" name="Password" class="form-control bg-dark text-white" placeholder="Enter your password" required style="border: 1px solid rgba(255, 255, 255, 0.2);" />
+                    </div>
+
+                    <!-- Login Button -->
+                    <!-- Login Button -->
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-gradient" style="background: linear-gradient(135deg, #ffd700, #ffa500); color: #000; border: none; font-weight: 500;">
+                            Login
+                        </button>
+                    </div>
+                </form>
+
+                <!-- Footer Links -->
+                <div class="text-center mt-3">
+                    <p class="text-muted">Don't have an account? <a asp-page="/Register" class="text-gradient">Register here</a></p>
+                </div>
+            }
+        </div>
+    </div>
+</div>

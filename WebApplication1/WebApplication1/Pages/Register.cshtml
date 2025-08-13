@@ -1,0 +1,132 @@
+﻿@page
+@model WebApplication1.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+    <div class="card shadow-lg p-4" style="width: 100%; max-width: 500px; background-color: #1a1a1a; border: 1px solid rgba(255, 255, 255, 0.1);">
+        <div class="text-center mb-4">
+            <h2 class="text-gradient">Register</h2>
+            <p class="text-muted">Create your account</p>
+        </div>
+
+        <!-- Error Message -->
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <div class="alert alert-danger">@Model.ErrorMessage</div>
+        }
+
+        <!-- Success Message -->
+        @if (!string.IsNullOrEmpty(Model.SuccessMessage))
+        {
+            <div class="alert alert-success">@Model.SuccessMessage</div>
+        }
+
+        <form method="post">
+            <!-- Nom Field -->
+            <div class="form-group mb-3">
+                <label for="Nom" class="form-label text-white">Nom:</label>
+                <input type="text" id="Nom" name="Nom" value="@Model.Nom" class="form-control bg-dark text-white" placeholder="Enter your last name" required style="border: 1px solid rgba(255, 255, 255, 0.2);" />
+            </div>
+
+            <!-- Prenom Field -->
+            <div class="form-group mb-3">
+                <label for="Prenom" class="form-label text-white">Prenom:</label>
+                <input type="text" id="Prenom" name="Prenom" value="@Model.Prenom" class="form-control bg-dark text-white" placeholder="Enter your first name" required style="border: 1px solid rgba(255, 255, 255, 0.2);" />
+            </div>
+
+            <!-- CIN Field -->
+            <div class="form-group mb-3">
+                <label for="Cin" class="form-label text-white">CIN:</label>
+                <input type="text" id="Cin" name="Cin" value="@Model.Cin" class="form-control bg-dark text-white" placeholder="Enter your CIN" required style="border: 1px solid rgba(255, 255, 255, 0.2);" />
+            </div>
+
+            <!-- Telephone Field -->
+            <div class="form-group mb-3">
+                <label for="Telephone" class="form-label text-white">Telephone:</label>
+                <input type="text" id="Telephone" name="Telephone" value="@Model.Telephone" class="form-control bg-dark text-white" placeholder="Enter your phone number" required style="border: 1px solid rgba(255, 255, 255, 0.2);" />
+            </div>
+
+            <!-- Email Field -->
+            <div class="form-group mb-3">
+                <label for="Email" class="form-label text-white">Email:</label>
+                <input type="email" id="Email" name="Email" value="@Model.Email" class="form-control bg-dark text-white" placeholder="Enter your email" required style="border: 1px solid rgba(255, 255, 255, 0.2);" />
+            </div>
+
+            <!-- Password Field -->
+            <div class="form-group mb-3">
+                <label for="Password" class="form-label text-white">Password:</label>
+                <input type="password" id="Password" name="Password" value="@Model.Password" class="form-control bg-dark text-white" placeholder="Enter your password" required style="border: 1px solid rgba(255, 255, 255, 0.2);" />
+            </div>
+
+            <!-- Register Button -->
+            <div class="d-grid mb-3">
+                <button type="submit" class="btn btn-gradient">Register</button>
+            </div>
+        </form>
+
+        <!-- Footer Links -->
+        <div class="text-center mt-3">
+            <p class="text-muted">Already have an account? <a asp-page="/Login" class="text-gradient">Login here</a></p>
+        </div>
+    </div>
+</div>
+
+<!-- Styles for the Luxurious Theme -->
+<style>
+    /* Gradient Text */
+    .text-gradient {
+        background: linear-gradient(135deg, #ffd700, #ffffff); /* Gold to white gradient */
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    /* Gradient Button */
+    .btn-gradient {
+        background: linear-gradient(135deg, #ffd700, #ffffff); /* Gold to white gradient */
+        border: none;
+        color: #1a1a1a; /* Dark text */
+        font-weight: 500;
+        transition: all 0.3s ease;
+    }
+
+        .btn-gradient:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3); /* Gold shadow */
+        }
+
+    /* Card Shadow */
+    .shadow-lg {
+        box-shadow: 0 10px 30px rgba(255, 255, 255, 0.1); /* White shadow */
+    }
+
+    /* Form Inputs */
+    .form-control {
+        background-color: #1a1a1a; /* Dark background */
+        color: #ffffff; /* White text */
+        border: 1px solid rgba(255, 255, 255, 0.2); /* Light border */
+    }
+
+        .form-control:focus {
+            border-color: #ffd700; /* Gold border on focus */
+            box-shadow: 0 0 0 0.2rem rgba(255, 215, 0, 0.25); /* Gold shadow on focus */
+        }
+
+    /* Alert Messages */
+    .alert {
+        border-radius: 8px;
+    }
+
+    .alert-danger {
+        background-color: rgba(255, 0, 0, 0.1); /* Red background */
+        border-color: rgba(255, 0, 0, 0.2); /* Red border */
+        color: #ff6b6b; /* Light red text */
+    }
+
+    .alert-success {
+        background-color: rgba(0, 255, 0, 0.1); /* Green background */
+        border-color: rgba(0, 255, 0, 0.2); /* Green border */
+        color: #66ff66; /* Light green text */
+    }
+</style>

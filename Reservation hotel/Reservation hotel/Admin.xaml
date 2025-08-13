@@ -1,0 +1,124 @@
+﻿<Window x:Class="Reservation_hotel.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reservation_hotel"
+        mc:Ignorable="d"
+        Title="Admin - Hotel Management System" 
+        Height="450" 
+        Width="800"
+        WindowStartupLocation="CenterScreen"
+        Background="#1E1E1E">
+    <!-- Fond noir pour un style moderne -->
+
+    <Window.Resources>
+        <!-- Style pour les boutons -->
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#FFDAA520" />
+            <!-- Jaune or -->
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="Padding" Value="10,5" />
+            <Setter Property="Margin" Value="10,5" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="10" Color="Black" ShadowDepth="3" Opacity="0.5" />
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Style pour les TextBlock -->
+        <Style x:Key="TextBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="24" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Foreground" Value="#FFDAA520" />
+            <!-- Jaune or -->
+            <Setter Property="Margin" Value="0,0,0,10" />
+            <Setter Property="TextAlignment" Value="Center" />
+            <Setter Property="TextWrapping" Value="Wrap" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200" />
+            <!-- Largeur fixe pour la barre latérale -->
+            <ColumnDefinition Width="*" />
+            <!-- Le reste de l'espace pour le contenu principal -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Barre latérale -->
+        <Border Grid.Column="0" Background="#333333" BorderBrush="#FFDAA520" BorderThickness="2">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <!-- Titre de la barre latérale -->
+                <TextBlock Text="Admin Panel" Style="{StaticResource TextBlockStyle}" HorizontalAlignment="Center">
+                    <TextBlock.Effect>
+                        <DropShadowEffect BlurRadius="5" Color="Black" ShadowDepth="2" />
+                    </TextBlock.Effect>
+                </TextBlock>
+
+                <!-- Boutons de navigation -->
+                <Button x:Name="btn_HOME" Click="btn_HOME_Click" Style="{StaticResource ButtonStyle}" Content="Home" />
+                <Button x:Name="btn_EMP" Content="Gérer Employés" Click="btn_EMP_Click" Style="{StaticResource ButtonStyle}" />
+                <Button x:Name="btn_CLT" Content="Gérer Clients" Click="btn_CLT_Click" Style="{StaticResource ButtonStyle}" />
+                <Button x:Name="btn_RES" Content="Gérer Réservations" Click="btn_RES_Click" Style="{StaticResource ButtonStyle}" />
+                <Button x:Name="btn_CHAMBRE" Content="Gérer Chambres" Click="btn_CHAMBRE_Click" Style="{StaticResource ButtonStyle}" />
+                <Button x:Name="btn_TYPE_CHAMBRE" Content="Gérer Types de Chambres" Click="btn_TYPE_CHAMBRE_Click" Style="{StaticResource ButtonStyle}" />
+
+                <!-- Bouton Logout -->
+                <Button x:Name="btn_Logout" Content="Logout" Click="btn_Logout_Click" Style="{StaticResource ButtonStyle}" />
+            </StackPanel>
+        </Border>
+
+        <!-- Contenu principal -->
+        <Grid x:Name="MainGrid" Grid.Column="1" Background="#1E1E1E">
+            <!-- Message de bienvenue splendide -->
+            <Border Background="#444444" 
+                    CornerRadius="10" 
+                    Padding="20" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Center"
+                    BorderBrush="#FFDAA520" 
+                    BorderThickness="2">
+                <StackPanel>
+                    <TextBlock Text="Bienvenue" 
+                               FontSize="36" 
+                               FontFamily="Arial" 
+                               FontWeight="Bold" 
+                               Foreground="#FFDAA520" 
+                               HorizontalAlignment="Center" 
+                               Margin="0,0,0,10">
+                        <TextBlock.Effect>
+                            <DropShadowEffect BlurRadius="10" Color="Black" ShadowDepth="3" Opacity="0.5" />
+                        </TextBlock.Effect>
+                    </TextBlock>
+                    <TextBlock Text="dans le système de gestion hôtelière" 
+                               FontSize="24" 
+                               FontFamily="Arial" 
+                               Foreground="White" 
+                               HorizontalAlignment="Center" 
+                               TextWrapping="Wrap" 
+                               TextAlignment="Center" />
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

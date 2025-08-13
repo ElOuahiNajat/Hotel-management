@@ -1,0 +1,20 @@
+﻿Reservation hotel
+
+
+winexe
+C#
+.cs
+C:\Users\user\Desktop\dot net core\Projet Dot Net\Reservation hotel\Reservation hotel\obj\Release\net8.0-windows\
+Reservation_hotel
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\user\Desktop\dot net core\Projet Dot Net\Reservation hotel\Reservation hotel\App.xaml
+15-1556316756
+
+181303023210
+237-927380455
+Admin.xaml;Chambre\AjouterCHAMBRE.xaml;Chambre\ListerCHAMBRE.xaml;Chambre\ModifierCHAMBRE.xaml;EMP.xaml;Employe\AjouterEMP.xaml;Employe\ListerEMP.xaml;Employe\ModifierEMP.xaml;MainWindow.xaml;Reservation\AjouterRESERVATION.xaml;Reservation\ListerRESERVATION.xaml;Reservation\ModifierRESERV.xaml;TypeChambre\AjouterTypeChambre.xaml;TypeChambre\ListerTypeChambre.xaml;TypeChambre\ModifierTypeChambre.xaml;
+
+True
+

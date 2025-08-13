@@ -1,0 +1,31 @@
+﻿<Window x:Class="Reservation_hotel.TypeChambre.AjouterTypeChambre"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reservation_hotel.TypeChambre"
+        mc:Ignorable="d"
+        Title="Ajouter Type de Chambre" Height="450" Width="800"
+        Background="Black">
+
+    <!-- Grille principale avec un fond gris -->
+    <Grid Background="#1e1e1e">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Champs de texte avec des marges et une hauteur définie -->
+        <TextBox x:Name="txtType" Height="40" Width="400" Grid.ColumnSpan="2" VerticalAlignment="Top" Margin="0,50,0,0" Background="#333333" Foreground="White" BorderBrush="Gray" BorderThickness="2" FontSize="16"/>
+        <TextBox x:Name="txtPrix" Height="40" Width="400" Grid.ColumnSpan="2" VerticalAlignment="Top" Margin="0,100,0,0" Background="#333333" Foreground="White" BorderBrush="Gray" BorderThickness="2" FontSize="16"/>
+        <TextBox x:Name="txtTypeChambre" Height="40" Width="400" Grid.ColumnSpan="2" VerticalAlignment="Top" Margin="0,150,0,0" Background="#333333" Foreground="White" BorderBrush="Gray" BorderThickness="2" FontSize="16"/>
+
+        <!-- Labels stylisés -->
+        <Label Content="Type :" Grid.Column="0" HorizontalAlignment="Center" Margin="0,50,100,0" Foreground="White" FontSize="16"/>
+        <Label Content="Prix :" Grid.Column="0" HorizontalAlignment="Center" Margin="0,100,100,0" Foreground="White" FontSize="16"/>
+        <Label Content="Type Chambre :" Grid.Column="0" HorizontalAlignment="Center" Margin="0,150,100,0" Foreground="White" FontSize="16"/>
+
+        <!-- Bouton "Ajouter" stylisé -->
+        <Button x:Name="btnAjouter" Content="Ajouter" Width="150" Height="50" Grid.ColumnSpan="2" VerticalAlignment="Top" Margin="0,200,0,0" Background="Yellow" Foreground="Black" FontSize="18" BorderBrush="Gray" BorderThickness="2" FontWeight="Bold" Cursor="Hand" Click="btnAjouter_Click"/>
+    </Grid>
+</Window>
